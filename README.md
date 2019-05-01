@@ -14,7 +14,4 @@ No habrán clases presenciales hasta el día martes 14 de mayo. En su lugar, se 
 
 - https://www.learnpython.org/es/
 
-
-
-
-
+Asimismo, pueden ir revisando los materiales que se estarán subiendo a este repositorio durante los próximos días.
