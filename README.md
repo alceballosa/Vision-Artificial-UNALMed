@@ -4,6 +4,8 @@
 
 ### <center>Asistente de docencia: Alberto Mario Ceballos Arroyo.</center>
 
+### <center>Monitor: Jairo Andres Rodriguez Rodriguez.</center>
+
 ## INFORMACIÓN IMPORTANTE
 
 No habrán clases presenciales hasta el día martes 14 de mayo. En su lugar, se recomienda realizar alguno de los siguientes cursos en línea para aquellos que consideren que les falta pulir sus bases en programación y Python:
