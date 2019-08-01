@@ -1,0 +1,226 @@
+||   Name || Histological Diagnosis || Clinical Diagnosis || Asymmetry | Pigment Network | Dots/Globules | Streaks | Regression Areas | Blue-Whitish Veil ||           Colors ||
+|| IMD003 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD009 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD016 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD022 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD024 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||             3  4 ||
+|| IMD025 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD035 ||                        ||                  0 ||         2 |               T |             A |       A |                A |                 A ||             2  3 ||
+|| IMD038 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             4  6 ||
+|| IMD042 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD044 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             4  5 ||
+|| IMD045 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD050 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD092 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD101 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD103 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD112 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||          2  3  4 ||
+|| IMD118 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD125 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD132 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD134 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||          2  3  4 ||
+|| IMD135 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD144 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD146 ||                        ||                  0 ||         1 |               T |             A |       P |                A |                 A ||          2  3  4 ||
+|| IMD147 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD150 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||             1  5 ||
+|| IMD152 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD156 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD159 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD161 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD162 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD175 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD177 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||             3  4 ||
+|| IMD182 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD198 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD200 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD010 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD017 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD020 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             4  6 ||
+|| IMD039 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                4 ||
+|| IMD041 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             4  6 ||
+|| IMD105 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD107 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD108 ||                        ||                  0 ||         1 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD133 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD142 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD143 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD160 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD173 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD176 ||                        ||                  0 ||         0 |               T |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD196 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD197 ||                        ||                  0 ||         0 |               T |            AT |       A |                A |                 A ||             4  6 ||
+|| IMD199 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD203 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD204 ||                        ||                  0 ||         0 |               T |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD206 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD207 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD208 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD364 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||             3  4 ||
+|| IMD365 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||             3  4 ||
+|| IMD367 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD371 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD372 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD374 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||             3  4 ||
+|| IMD375 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD378 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD379 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||             3  4 ||
+|| IMD380 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD381 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                3 ||
+|| IMD383 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD384 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD385 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||             3  4 ||
+|| IMD389 ||                        ||                  0 ||         0 |               T |             T |       A |                A |                 A ||                4 ||
+|| IMD390 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD392 ||                        ||                  0 ||         0 |               T |            AT |       A |                A |                 A ||                4 ||
+|| IMD394 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD395 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD397 ||                        ||                  0 ||         0 |               T |            AT |       A |                A |                 A ||                4 ||
+|| IMD399 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||             3  4 ||
+|| IMD400 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD402 ||                        ||                  0 ||         0 |               T |             A |       A |                A |                 A ||                4 ||
+|| IMD002 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD004 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD013 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||                3 ||
+|| IMD015 ||                        ||                  1 ||         0 |              AT |             A |       A |                A |                 A ||             2  5 ||
+|| IMD019 ||                        ||                  1 ||         0 |              AT |             T |       A |                A |                 A ||                4 ||
+|| IMD021 ||                        ||                  1 ||         0 |              AT |             T |       A |                A |                 A ||             4  6 ||
+|| IMD027 ||                        ||                  1 ||         0 |              AT |             T |       A |                A |                 A ||             3  4 ||
+|| IMD030 ||                        ||                  1 ||         0 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD032 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD033 ||                        ||                  1 ||         2 |              AT |             T |       A |                A |                 A ||             3  6 ||
+|| IMD037 ||                        ||                  1 ||         1 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD040 ||                        ||                  1 ||         1 |              AT |             T |       A |                A |                 A ||             3  4 ||
+|| IMD043 ||                        ||                  1 ||         1 |              AT |             T |       A |                A |                 A ||             4  6 ||
+|| IMD047 ||                        ||                  1 ||         0 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD048 ||                        ||                  1 ||         1 |              AT |            AT |       A |                A |                 A ||                3 ||
+|| IMD049 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 P ||             4  5 ||
+|| IMD057 ||       Dysplastic Nevus ||                  1 ||         0 |              AT |             A |       A |                A |                 A ||             4  6 ||
+|| IMD075 ||                        ||                  1 ||         2 |              AT |            AT |       A |                A |                 A ||             4  6 ||
+|| IMD076 ||             Blue Nevus ||                  1 ||         2 |              AT |             A |       A |                A |                 A ||                5 ||
+|| IMD078 ||      Intradermal Nevus ||                  1 ||         2 |              AT |            AT |       A |                A |                 A ||                6 ||
+|| IMD120 ||                        ||                  1 ||         0 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD126 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             3  6 ||
+|| IMD137 ||                        ||                  1 ||         1 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD138 ||                        ||                  1 ||         1 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD139 ||                        ||                  1 ||         0 |              AT |            AT |       P |                A |                 A ||             4  6 ||
+|| IMD140 ||                        ||                  1 ||         0 |              AT |             A |       P |                A |                 A ||             4  6 ||
+|| IMD149 ||                        ||                  1 ||         0 |              AT |             T |       A |                A |                 A ||          1  4  5 ||
+|| IMD153 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             1  3 ||
+|| IMD157 ||                        ||                  1 ||         2 |              AT |             A |       A |                A |                 A ||             3  5 ||
+|| IMD164 ||                        ||                  1 ||         0 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD166 ||                        ||                  1 ||         0 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD169 ||       Dysplastic Nevus ||                  1 ||         0 |              AT |            AT |       P |                A |                 P ||          4  5  6 ||
+|| IMD171 ||                        ||                  1 ||         0 |              AT |             A |       P |                A |                 A ||          2  4  6 ||
+|| IMD210 ||       Dysplastic Nevus ||                  1 ||         2 |              AT |             A |       P |                A |                 P ||          4  5  6 ||
+|| IMD347 ||      Intradermal Nevus ||                  1 ||         0 |              AT |            AT |       A |                A |                 P ||             4  5 ||
+|| IMD155 ||                        ||                  1 ||         0 |               T |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD376 ||                        ||                  1 ||         0 |               T |             A |       P |                A |                 A ||                4 ||
+|| IMD006 ||                        ||                  1 ||         2 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD008 ||                        ||                  1 ||         0 |               T |             A |       A |                A |                 A ||                3 ||
+|| IMD014 ||                        ||                  1 ||         1 |              AT |            AT |       A |                P |                 A ||          1  3  4 ||
+|| IMD018 ||                        ||                  1 ||         0 |              AT |            AT |       A |                A |                 A ||                4 ||
+|| IMD023 ||                        ||                  1 ||         0 |              AT |             A |       A |                A |                 A ||                3 ||
+|| IMD031 ||                        ||                  1 ||         0 |              AT |             A |       P |                A |                 P ||             4  5 ||
+|| IMD036 ||                        ||                  1 ||         0 |              AT |             T |       A |                A |                 A ||                3 ||
+|| IMD154 ||                        ||                  1 ||         0 |              AT |             A |       A |                P |                 A ||             1  3 ||
+|| IMD170 ||                        ||                  1 ||         1 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD226 ||                        ||                  1 ||         1 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD243 ||                        ||                  1 ||         0 |              AT |            AT |       P |                A |                 A ||             2  4 ||
+|| IMD251 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD254 ||                        ||                  1 ||         2 |              AT |             A |       A |                A |                 A ||                3 ||
+|| IMD256 ||                        ||                  1 ||         1 |              AT |             A |       P |                A |                 A ||                4 ||
+|| IMD278 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD279 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD280 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD304 ||                        ||                  1 ||         2 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD305 ||                        ||                  1 ||         2 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD306 ||                        ||                  1 ||         0 |              AT |             A |       P |                A |                 A ||                4 ||
+|| IMD312 ||                        ||                  1 ||         2 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD328 ||                        ||                  1 ||         0 |              AT |            AT |       A |                A |                 A ||                4 ||
+|| IMD331 ||                        ||                  1 ||         0 |              AT |            AT |       A |                A |                 A ||                4 ||
+|| IMD339 ||                        ||                  1 ||         2 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD356 ||                        ||                  1 ||         0 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD360 ||                        ||                  1 ||         0 |              AT |             A |       A |                A |                 A ||                4 ||
+|| IMD368 ||                        ||                  1 ||         2 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD369 ||                        ||                  1 ||         0 |              AT |            AT |       A |                A |                 A ||          3  4  6 ||
+|| IMD370 ||                        ||                  1 ||         2 |              AT |            AT |       A |                A |                 A ||                3 ||
+|| IMD382 ||                        ||                  1 ||         1 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD386 ||                        ||                  1 ||         0 |              AT |             A |       P |                A |                 A ||                4 ||
+|| IMD388 ||                        ||                  1 ||         2 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD393 ||                        ||                  1 ||         0 |              AT |             A |       P |                A |                 A ||             2  3 ||
+|| IMD396 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||                4 ||
+|| IMD398 ||                        ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||                4 ||
+|| IMD427 ||                        ||                  1 ||         0 |              AT |            AT |       A |                A |                 A ||          3  4  6 ||
+|| IMD430 ||                        ||                  1 ||         0 |              AT |             A |       P |                P |                 A ||          1  3  4 ||
+|| IMD431 ||                        ||                  1 ||         1 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD432 ||                        ||                  1 ||         2 |              AT |            AT |       P |                A |                 A ||             3  4 ||
+|| IMD433 ||                        ||                  1 ||         1 |              AT |             A |       P |                A |                 A ||             3  4 ||
+|| IMD434 ||                        ||                  1 ||         2 |              AT |            AT |       P |                A |                 P ||          3  4  5 ||
+|| IMD436 ||       Dysplastic Nevus ||                  1 ||         1 |              AT |             A |       A |                A |                 A ||             3  4 ||
+|| IMD437 ||       Dysplastic Nevus ||                  1 ||         2 |              AT |            AT |       A |                P |                 A ||             4  6 ||
+|| IMD058 ||               Melanoma ||                  2 ||         0 |              AT |             A |       A |                P |                 P ||       1  2  4  5 ||
+|| IMD061 ||                        ||                  2 ||         2 |              AT |             A |       A |                P |                 P ||             3  5 ||
+|| IMD063 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       A |                A |                 P ||             3  4 ||
+|| IMD064 ||               Melanoma ||                  2 ||         2 |              AT |             A |       P |                P |                 P ||          1  3  5 ||
+|| IMD065 ||                        ||                  2 ||         2 |              AT |             A |       A |                P |                 P ||             4  6 ||
+|| IMD080 ||               Melanoma ||                  2 ||         2 |              AT |             A |       P |                P |                 P ||          2  4  6 ||
+|| IMD085 ||                        ||                  2 ||         2 |              AT |             A |       A |                A |                 P ||             5  6 ||
+|| IMD088 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       P |                P |                 P ||       1  4  5  6 ||
+|| IMD090 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       P |                P |                 P ||          4  5  6 ||
+|| IMD091 ||                        ||                  2 ||         0 |               T |            AT |       A |                A |                 P ||             5  6 ||
+|| IMD168 ||                        ||                  2 ||         2 |              AT |             A |       P |                P |                 P ||       1  4  5  6 ||
+|| IMD211 ||       Nodular Melanoma ||                  2 ||         1 |              AT |             A |       A |                A |                 P ||             5  6 ||
+|| IMD219 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       A |                P |                 P ||       3  4  5  6 ||
+|| IMD240 ||               Melanoma ||                  2 ||         2 |              AT |             A |       P |                P |                 P ||             5  6 ||
+|| IMD242 ||        Lentigo Maligna ||                  2 ||         2 |              AT |             A |       A |                A |                 A ||          3  4  6 ||
+|| IMD284 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       A |                A |                 P ||             4  5 ||
+|| IMD285 ||               Melanoma ||                  2 ||         0 |              AT |             A |       A |                A |                 P ||          3  4  5 ||
+|| IMD348 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       P |                P |                 P ||       1  4  5  6 ||
+|| IMD349 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       A |                P |                 P ||             3  4 ||
+|| IMD403 ||               Melanoma ||                  2 ||         2 |              AT |             A |       A |                P |                 A ||          1  3  4 ||
+|| IMD404 ||        Lentigo Maligna ||                  2 ||         2 |              AT |            AT |       A |                A |                 A ||          1  3  4 ||
+|| IMD405 ||       Nodular Melanoma ||                  2 ||         2 |              AT |            AT |       A |                A |                 P ||       3  4  5  6 ||
+|| IMD407 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       P |                A |                 A ||          3  4  6 ||
+|| IMD408 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       P |                P |                 P ||    1  3  4  5  6 ||
+|| IMD409 ||               Melanoma ||                  2 ||         2 |              AT |             A |       P |                P |                 P ||    1  3  4  5  6 ||
+|| IMD410 ||               Melanoma ||                  2 ||         1 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD413 ||        Lentigo Maligna ||                  2 ||         2 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD417 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       A |                P |                 P ||    1  3  4  5  6 ||
+|| IMD418 ||               Melanoma ||                  2 ||         2 |              AT |             A |       A |                A |                 A ||          3  4  6 ||
+|| IMD419 ||               Melanoma ||                  2 ||         2 |              AT |             A |       A |                A |                 P ||       3  4  5  6 ||
+|| IMD406 ||                        ||                  2 ||         2 |              AT |            AT |       A |                P |                 A ||          1  3  4 ||
+|| IMD411 ||        Lentigo Maligna ||                  2 ||         2 |              AT |            AT |       A |                A |                 A ||             3  4 ||
+|| IMD420 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       P |                P |                 P ||       1  3  4  5 ||
+|| IMD421 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       A |                P |                 P ||       1  3  4  5 ||
+|| IMD423 ||               Melanoma ||                  2 ||         0 |              AT |            AT |       A |                A |                 P ||          3  4  5 ||
+|| IMD424 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       P |                A |                 P ||       3  4  5  6 ||
+|| IMD425 ||               Melanoma ||                  2 ||         2 |              AT |            AT |       A |                P |                 P ||       3  4  5  6 ||
+|| IMD426 ||               Melanoma ||                  2 ||         2 |              AT |             A |       A |                P |                 A ||             3  4 ||
+|| IMD429 ||                        ||                  2 ||         0 |              AT |             A |       P |                A |                 P ||       3  4  5  6 ||
+|| IMD435 ||        Lentigo Maligna ||                  2 ||         2 |              AT |             A |       A |                A |                 P ||       3  4  5  6 ||
+
+
+Legends for Clinical Diagnosis: 
+   0 - Common Nevus;
+   1 - Atypical Nevus;
+   2 - Melanoma.
+
+Legends for Asymmetry: 
+   0 - Fully Symmetric;
+   1 - Symetric in 1 axe;
+   2 - Fully Asymmetric;
+
+Legends for Pigment Network, Dots/Globules, Streaks, Regression Areas, and Blue-Whitish Veil: 
+   A  - Absent;
+   AT - Atypical;
+   P  - Present;
+   T  - Typical.
+
+Legends for Colors: 
+   1 - White;
+   2 - Red;
+   3 - Light-Brown;
+   4 - Dark-Brown;
+   5 - Blue-Gray;
+   6 - Black.
